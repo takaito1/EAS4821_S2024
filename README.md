@@ -3,7 +3,7 @@ Quantitative Techniques for EAS Laboratory Class (Spring 2024)
 
 ## Setting up the python environment (Option 1. installing miniconda3) 
   - These steps will install miniconda3 on your laptop, it takes about 3GB of disk space 
-  - Install miniconda3 on your laptop. Start by opening this [URL](https://docs.conda.io/projects/miniconda/en/latest/)
+  - Install miniconda3 on your laptop. Start by opening this [URL](https://docs.conda.io/projects/miniconda/en/latest/){:target="_blank"} 
   - Scroll down to "Quick Command Line Install"
   - Select your OS (Windows/macOS/Linux) and follow the appropriate instructions.
   - Once the installation is complete, follow the instructions below exactly. 
@@ -34,5 +34,5 @@ python -m ipykernel install --user --name EAS4821 --display-name EAS4821
   - At this point the "EAS4821" environment should be ready to use in Jupyterlab/Jupyter Notebook. 
 
 ## Setting up the python environment (Option 2. google colab) 
-  - To access google colab, enter "colab.google" on your web browser.
-  - Alternatively, open this [URL](https://colab.google/)
+  - To access google colab, open a new tab on your browser and enter "colab.google" in the search box. 
+  - Alternatively, open this [URL](https://colab.google/){:target="_blank"} 
