@@ -3,7 +3,7 @@ Quantitative Techniques for EAS Laboratory Class (Spring 2024)
 
 ## Setting up the python environment (Option 1. installing miniconda3) 
   - These steps will install miniconda3 on your laptop, it takes about 3GB of disk space 
-  - Install miniconda3 on your laptop. Start by opening this [URL](https://docs.conda.io/projects/miniconda/en/latest/){:target="_blank"} 
+  - Install miniconda3 on your laptop. Start by opening this [URL](https://docs.conda.io/projects/miniconda/en/latest/{:target="_blank"} 
   - Scroll down to "Quick Command Line Install"
   - Select your OS (Windows/macOS/Linux) and follow the appropriate instructions.
   - Once the installation is complete, follow the instructions below exactly. 
