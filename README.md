@@ -34,5 +34,6 @@ python -m ipykernel install --user --name EAS4821 --display-name EAS4821
   - At this point the "EAS4821" environment should be ready to use in Jupyterlab/Jupyter Notebook. 
 
 ## Setting up the python environment (Option 2. google colab) 
-  - To access google colab, open a new tab on your browser and enter "colab.google" in the search box. 
-  - Alternatively, open this [URL](https://colab.google/){:target="_blank"} 
+  - If you don't have google account yet, create one. 
+  - To access google colab, start by opening a new tab, and point your browser to https://colab.google/
+  - Do not sign up for the paid service. Free version will work just fine for this class.
