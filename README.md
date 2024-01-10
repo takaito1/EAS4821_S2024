@@ -31,7 +31,13 @@ mamba install -c conda-forge numpy matplotlib pandas netcdf4 dask nc-time-axis c
 ```
 python -m ipykernel install --user --name EAS4821 --display-name EAS4821
 ```
-  - At this point the "EAS4821" environment should be ready to use in Jupyterlab/Jupyter Notebook. 
+  - At this point the "EAS4821" environment should be ready to use in Jupyterlab/Jupyter Notebook.
+  - From the second time, you can start the jupyterlab by executing the following commands.
+```
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate EAS4821
+jupyter lab
+```
 
 ## Setting up the python environment (Option 2. google colab) 
   - If you don't have google account yet, create one. 
