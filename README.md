@@ -43,3 +43,8 @@ jupyter lab
   - If you don't have google account yet, create one. 
   - To access google colab, start by opening a new tab, and point your browser to https://colab.google/
   - Do not sign up for the paid service. Free version will work just fine for this class.
+  - You can include additional package specific to colab for access to data files in google drive as follows.
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
